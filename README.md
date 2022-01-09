@@ -21,3 +21,5 @@ Executors Tested:
 Synapse X: Works
 
 Script-Ware: Works
+
+KRNL: Works
