@@ -22,7 +22,7 @@ local Page3 = UI.New({
 
 
 Page.Button({
-    Text = "Spam Up",
+    Text = "Spam Up On Carts",
     Callback = function()
        for i, v in pairs(workspace:GetDescendants()) do
    if v.Parent.Name == "Up" and v.ClassName == "ClickDetector" then
@@ -75,7 +75,7 @@ end)
 })
 
 Page.Button({
-    Text = "Spam Down",
+    Text = "Spam Down On Carts",
     Callback = function()
        for i, v in pairs(workspace:GetDescendants()) do
    if v.Parent.Name == "Down" and v.ClassName == "ClickDetector" then
