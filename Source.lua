@@ -152,7 +152,7 @@ Page3.Slider({
         game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = (value)
     end,
     Min = 16,
-    Max = 9999,
+    Max = 1000,
     Def = 4
 })
 
@@ -162,7 +162,7 @@ Page3.Slider({
         game.Players.LocalPlayer.Character.Humanoid.JumpPower = (value)
     end,
     Min = 50,
-    Max = 9999,
+    Max = 1000,
     Def = 4
 })
 
