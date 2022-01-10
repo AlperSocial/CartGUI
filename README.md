@@ -23,3 +23,5 @@ Synapse X: Works
 Script-Ware: Works
 
 KRNL: Works
+
+Fluxus: Works
