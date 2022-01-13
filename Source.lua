@@ -138,7 +138,7 @@ tpservice:Teleport(game.PlaceId, plr)
 })
 
 Page.Button({
-    Text = "Mess With carts",
+    Text = "Mess With Carts",
     Callback = function()
        getgenv().AutoBreakCarts = true
 spawn(function()
@@ -153,7 +153,7 @@ end end) end end)
 })
 
 Page.Button({
-    Text = "Break the game",
+    Text = "Break The Game",
     Callback = function()
        for i, v in next, workspace:GetDescendants() do
 if v:IsA"ClickDetector" and v.Parent.Name ~= "Down" then
