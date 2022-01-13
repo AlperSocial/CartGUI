@@ -9,7 +9,7 @@ local UI = Material.Load({
 })
 
 local Page = UI.New({
-    Title = "Main"
+    Title = "Trolling"
 })
 
 local Page2 = UI.New({
@@ -134,6 +134,45 @@ Page.Button({
 local plr = game.Players.LocalPlayer
 
 tpservice:Teleport(game.PlaceId, plr)
+    end
+})
+
+Page.Button({
+    Text = "Mess With carts",
+    Callback = function()
+       getgenv().AutoBreakCarts = true
+spawn(function()
+while AutoBreakCarts do wait(0.3)
+   pcall(function()
+for i,v in pairs(workspace:GetDescendants()) do
+if v:IsA("ClickDetector") then
+fireclickdetector(v)
+end
+end end) end end)
+    end
+})
+
+Page.Button({
+    Text = "Break the game",
+    Callback = function()
+       for i, v in next, workspace:GetDescendants() do
+if v:IsA"ClickDetector" and v.Parent.Name ~= "Down" then
+spawn(function()
+while v:IsDescendantOf(workspace) and wait() do
+if v.Parent.Name ~= "On" then fireclickdetector(v)
+elseif tostring(v.Parent.BrickColor) == "Bright red" then fireclickdetector(v) end
+end
+end)
+end
+end
+workspace.DescendantAdded:Connect(function(v)
+if v:IsA"ClickDetector" and v.Parent.Name ~= "Down" then
+while v:IsDescendantOf(workspace) and wait() do
+if v.Parent.Name ~= "On" then fireclickdetector(v)
+elseif tostring(v.Parent.BrickColor) == "Bright red" then fireclickdetector(v) end
+end
+end
+end)
     end
 })
 
