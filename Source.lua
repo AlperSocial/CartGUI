@@ -137,7 +137,7 @@ tpservice:Teleport(game.PlaceId, plr)
     end
 })
 
-Page.Button({
+Page2.Button({
     Text = "Mess With Carts",
     Callback = function()
        getgenv().AutoBreakCarts = true
@@ -152,7 +152,7 @@ end end) end end)
     end
 })
 
-Page.Button({
+Page2.Button({
     Text = "Break The Game",
     Callback = function()
        for i, v in next, workspace:GetDescendants() do
