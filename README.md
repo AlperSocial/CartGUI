@@ -7,7 +7,11 @@ A GUI made by me that is for cart ride games
 
 Works for games that have up and down buttons.
 
-Example: Cart Ride Into Rdite
+Example Games:
+Cart Ride Into Rdite (best)
+Cart Ride Around guywithapoo!
+Cart Ride Into Albert!
+Cart Ride Into Poppy!
 
 Script now on Script-Ware
 https://dashboard.script-ware.com/catalogue/?scriptID=2939
