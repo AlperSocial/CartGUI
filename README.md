@@ -16,6 +16,9 @@ Cart Ride Into Poppy!
 Script now on Script-Ware
 https://dashboard.script-ware.com/catalogue/?scriptID=2939
 
+And also now on ScriptBlox
+https://www.scriptblox.com/script/Cart-GUI_377
+
 Made by AlperSocial
 
 UI Library: https://materiallua.gq/ (cuz sexy)
