@@ -133,7 +133,7 @@ Page.Button({
        spawn(function()
 local message = Instance.new("Message",workspace)
 message.Text = "Loaded press z to execute inviseble , press x to respawn)"
-wait(0.5)
+wait(3)
 message:Destroy()
 end)
 
