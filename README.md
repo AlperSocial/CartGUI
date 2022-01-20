@@ -14,7 +14,7 @@ https://dashboard.script-ware.com/catalogue/?scriptID=2939
 
 Made by AlperSocial
 
-UI Library: https://materiallua.gq/
+UI Library: https://materiallua.gq/ (cuz sexy)
 
 Executors Tested:
 
