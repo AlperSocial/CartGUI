@@ -25,3 +25,5 @@ Script-Ware: Works
 KRNL: Works
 
 Fluxus: Works
+
+Other Free Exploits: Unkown (DM Alper#3169 if you tested any exploit for the gui)
