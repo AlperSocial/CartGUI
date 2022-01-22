@@ -9,8 +9,11 @@ Works for games that have up and down buttons.
 
 Example Games:
 Cart Ride Into Rdite (best)
+
 Cart Ride Around guywithapoo!
+
 Cart Ride Into Albert!
+
 Cart Ride Into Poppy!
 
 Script now on Script-Ware
