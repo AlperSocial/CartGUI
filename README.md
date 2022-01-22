@@ -7,7 +7,7 @@ A GUI made by me that is for cart ride games
 
 Works for games that have up and down buttons.
 
-Example Games:
+# Example Games
 Cart Ride Into Rdite (best)
 
 Cart Ride Around guywithapoo!
@@ -16,17 +16,20 @@ Cart Ride Into Albert!
 
 Cart Ride Into Poppy!
 
+# Script now on other script websites
 Script now on Script-Ware
 https://dashboard.script-ware.com/catalogue/?scriptID=2939
 
 And also now on ScriptBlox
 https://www.scriptblox.com/script/Cart-GUI_377
 
+# Credit
+
 Made by AlperSocial
 
 UI Library: https://materiallua.gq/ (cuz sexy)
 
-Executors Tested:
+# Executors Tested:
 
 Synapse X: Works
 
