@@ -420,6 +420,13 @@ Page2.Button({
     end
 })
 
+Page2.Button({
+    Text = "Teleport To Start",
+    Callback = function()
+       game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(44, 0.049999997, -76, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+    end
+})
+
 
 
 Page3.Slider({
