@@ -29,6 +29,10 @@ Made by AlperSocial
 
 UI Library: https://materiallua.gq/ (cuz sexy)
 
+robloxscripts.com for mess with carts and break the game scripts
+
+Dark Eccentric for Cart Booster (Spam Up & Down)
+
 # Executors Tested:
 
 Synapse X: Works
