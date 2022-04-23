@@ -27,7 +27,7 @@ https://www.scriptblox.com/script/Cart-GUI_377
 
 Made by AlperSocial
 
-UI Library: https://materiallua.gq/ (cuz sexy)
+UI Library: Mercury Lib (cuz sexy)
 
 robloxscripts.com for mess with carts and break the game scripts
 
