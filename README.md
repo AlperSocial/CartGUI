@@ -43,4 +43,4 @@ KRNL: Works
 
 Fluxus: Works
 
-Other Free Exploits: Unkown (DM Alper#3169 if you tested any exploit for the gui)
+Other Free Exploits: Unkown (DM AlperSocial#3169 if you tested any exploit for the gui)
