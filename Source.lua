@@ -2,7 +2,7 @@
 local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
 
 local GUI = Mercury:Create{
-    Name = "Cart GUI",
+    Name = "Cart Ride GUI",
     Size = UDim2.fromOffset(600, 400),
     Theme = Mercury.Themes.Dark,
     Link = "https://www.alpersocial.xyz/cartgui"
@@ -11,11 +11,6 @@ local GUI = Mercury:Create{
 local Tab = GUI:Tab{
 	Name = "Main",
 	Icon = "rbxassetid://8950630642"
-}
-
-local Tab2 = GUI:Tab{
-	Name = "Rdite",
-	Icon = "rbxassetid://7824017871"
 }
 
 local Tab3 = GUI:Tab{
@@ -387,7 +382,7 @@ Tab:Button{
     end,
 }
 
-Tab2:Button{
+Tab:Button{
 	Name = "Mess With Carts",
 	Description = nil,
 	Callback = function()
@@ -403,7 +398,7 @@ Tab2:Button{
     end,
 }
 
-Tab2:Button{
+Tab:Button{
 	Name = "Break the Game",
 	Description = nil,
 	Callback = function()
@@ -428,7 +423,7 @@ Tab2:Button{
     end,
 }
 
-Tab2:Button{
+Tab:Button{
 	Name = "Finish",
 	Description = nil,
 	Callback = function()
@@ -436,7 +431,7 @@ Tab2:Button{
     end,
 }
 
-Tab2:Button{
+Tab:Button{
 	Name = "Teleport To Start",
 	Description = nil,
 	Callback = function()
