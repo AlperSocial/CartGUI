@@ -1,6 +1,6 @@
 # CartGUI
 
-Script made for Roblox
+This script has been discontinued. I do not guarantee that this script will work in the near future.
 
 
 A GUI made by me that is for cart ride games
