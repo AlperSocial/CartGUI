@@ -23,7 +23,7 @@ You may be familiar with cart ride experiences on the Roblox platform. This GUI 
 
 ### Attribution
 
-- **Murcury Lib** (UI Library)
+- **Mercury Lib** (UI Library)
 - [Roblox Scripts](https://robloxscripts.com) for providing the resources to make this project functional
 - [Dark Eccentric](https://www.youtube.com/c/DarkEccentric) for the cart booster.
 
