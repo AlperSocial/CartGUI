@@ -1,46 +1,38 @@
 # CartGUI
 
-This script has been discontinued. I do not guarantee that this script will work in the near future.
+> [!WARNING]
+> This project is no longer being maintained. Compatability issues may arise.
 
+You may be familiar with cart ride experiences on the Roblox platform. This GUI allows you to manipulate the carts in those such games.
 
-A GUI made by me that is for cart ride games
+## Examples of Cart Ride Experiences
 
-Works for games that have up and down buttons.
+- https://www.roblox.com/games/4913581664
+- https://www.roblox.com/games/5499911356
+- https://www.roblox.com/games/5475935012
+- https://www.roblox.com/games/8270679637
 
-# Example Games
-Cart Ride Into Rdite (best)
+> [!IMPORTANT]
+> The game's primary cart model must have an acceleration & deceleration button available. These buttons typically have arrows on them and are located at the front of the cart.
 
-Cart Ride Around guywithapoo!
+## Credits & Attribution
 
-Cart Ride Into Albert!
+### Developers
 
-Cart Ride Into Poppy!
+- [AlperSocial](https://github.com/AlperSocial)
 
-# Script now on other script websites
-Script now on Script-Ware
-https://dashboard.script-ware.com/catalogue/?scriptID=2939
+### Attribution
 
-And also now on ScriptBlox
-https://www.scriptblox.com/script/Cart-GUI_377
+- **Mercury Lib** (UI Library)
+- [Roblox Scripts](https://robloxscripts.com) for providing the resources to make this project functional
+- [Dark Eccentric](https://www.youtube.com/c/DarkEccentric) for the cart booster.
 
-# Credit
+## Platforms Tested
 
-Made by AlperSocial
+> [!NOTE]
+> Some platforms may no longer be available for purchase.
 
-UI Library: Mercury Lib (cuz sexy)
-
-robloxscripts.com for mess with carts and break the game scripts
-
-Dark Eccentric for Cart Booster (Spam Up & Down)
-
-# Executors Tested:
-
-Synapse X: Works
-
-Script-Ware: Works
-
-KRNL: Works
-
-Fluxus: Works
-
-Other Free Exploits: Unkown (DM AlperSocial#3169 if you tested any exploit for the gui)
+- ~~[Synapse X](https://x.synapse.to)~~
+- [Script-Ware](https://script-ware.com/)
+- ~~[KRNL](https://krnl.place)~~
+- ~~[Fluxus](https://fluxteam.net)~~
